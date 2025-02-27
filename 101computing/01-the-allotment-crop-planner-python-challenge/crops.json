@@ -1,0 +1,154 @@
+{
+  "crops": [
+    {
+      "name": "Carrot",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "May", "June", "July"],
+      "harvest_season": ["June", "July", "August", "September", "October"],
+      "soil_type": "Light, sandy, well-drained",
+      "sunlight": "Full sun",
+      "watering_needs": "Moderate",
+      "container_friendly": true
+    },
+    {
+      "name": "Potato",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "May"],
+      "harvest_season": ["June", "July", "August", "September"],
+      "soil_type": "Loamy, well-drained",
+      "sunlight": "Full sun",
+      "watering_needs": "Moderate",
+      "container_friendly": true
+    },
+    {
+      "name": "Tomato",
+      "type": "Fruit",
+      "planting_season": ["March", "April", "May"],
+      "harvest_season": ["July", "August", "September"],
+      "soil_type": "Rich, well-drained",
+      "sunlight": "Full sun",
+      "watering_needs": "Regular",
+      "container_friendly": true
+    },
+    {
+      "name": "Lettuce",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "May", "June", "July", "August"],
+      "harvest_season": ["May", "June", "July", "August", "September"],
+      "soil_type": "Moist, well-drained",
+      "sunlight": "Partial shade",
+      "watering_needs": "Regular",
+      "container_friendly": true
+    },
+    {
+      "name": "Strawberry",
+      "type": "Fruit",
+      "planting_season": ["March", "April", "August", "September"],
+      "harvest_season": ["June", "July"],
+      "soil_type": "Well-drained, slightly acidic",
+      "sunlight": "Full sun",
+      "watering_needs": "Regular",
+      "container_friendly": true
+    },
+    {
+      "name": "Onion",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "September", "October"],
+      "harvest_season": ["July", "August", "September"],
+      "soil_type": "Well-drained, fertile",
+      "sunlight": "Full sun",
+      "watering_needs": "Moderate",
+      "container_friendly": true
+    },
+    {
+      "name": "Broccoli",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "May", "July", "August"],
+      "harvest_season": ["June", "July", "August", "September", "October"],
+      "soil_type": "Fertile, well-drained",
+      "sunlight": "Full sun",
+      "watering_needs": "Regular",
+      "container_friendly": false
+    },
+    {
+      "name": "Peas",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "May", "June"],
+      "harvest_season": ["June", "July", "August"],
+      "soil_type": "Well-drained, fertile",
+      "sunlight": "Full sun",
+      "watering_needs": "Moderate",
+      "container_friendly": true
+    },
+    {
+      "name": "Pumpkin",
+      "type": "Vegetable",
+      "planting_season": ["May", "June"],
+      "harvest_season": ["September", "October"],
+      "soil_type": "Rich, well-drained",
+      "sunlight": "Full sun",
+      "watering_needs": "Regular",
+      "container_friendly": false
+    },
+    {
+      "name": "Garlic",
+      "type": "Vegetable",
+      "planting_season": ["October", "November", "December"],
+      "harvest_season": ["June", "July"],
+      "soil_type": "Well-drained, fertile",
+      "sunlight": "Full sun",
+      "watering_needs": "Moderate",
+      "container_friendly": true
+    },
+    {
+      "name": "Radish",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "May", "June", "July", "August"],
+      "harvest_season": ["May", "June", "July", "August", "September"],
+      "soil_type": "Light, well-drained",
+      "sunlight": "Full sun",
+      "watering_needs": "Regular",
+      "container_friendly": true
+    },
+    {
+      "name": "Cabbage",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "May", "July", "August"],
+      "harvest_season": ["June", "July", "August", "September", "October"],
+      "soil_type": "Fertile, well-drained",
+      "sunlight": "Full sun",
+      "watering_needs": "Regular",
+      "container_friendly": false
+    },
+    {
+      "name": "Spinach",
+      "type": "Vegetable",
+      "planting_season": ["March", "April", "May", "August", "September"],
+      "harvest_season": ["May", "June", "July", "September", "October"],
+      "soil_type": "Moist, fertile",
+      "sunlight": "Partial shade",
+      "watering_needs": "Regular",
+      "container_friendly": true
+    },
+    {
+      "name": "Beans (Runner Beans)",
+      "type": "Vegetable",
+      "planting_season": ["May", "June"],
+      "harvest_season": ["July", "August", "September"],
+      "soil_type": "Well-drained, fertile",
+      "sunlight": "Full sun",
+      "watering_needs": "Regular",
+      "container_friendly": true
+    },
+    {
+      "name": "Courgette",
+      "type": "Vegetable",
+      "planting_season": ["May", "June"],
+      "harvest_season": ["July", "August", "September"],
+      "soil_type": "Rich, well-drained",
+      "sunlight": "Full sun",
+      "watering_needs": "Regular",
+      "container_friendly": false
+    }
+  ]
+}
