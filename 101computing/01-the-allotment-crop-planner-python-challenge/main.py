@@ -2,7 +2,7 @@
 import json
 
 
-def whatToPlantThisMonth():
+def what_to_plant_this_month():
     print(" --- What to plant this month ---")
     month = input("Enter a month of the year: (e.g. April) ").title()
     # load JSON data from file
@@ -16,7 +16,7 @@ def whatToPlantThisMonth():
         if month in crop["planting_season"]:
             print(" > " + crop["name"])
 
-def whatToHarvestThisMonth():
+def what_to_harvest_this_month():
     print(" --- What to harvest this month ---")
     month = input("Enter a month of the year: (e.g. April) ").title()
     # load JSON data from file
@@ -30,7 +30,7 @@ def whatToHarvestThisMonth():
         if month in crop["harvest_season"]:
             print(" > " + crop["name"])
 
-def containerFriendlyCrops():
+def container_friendly_crops():
     print(" --- Container-Friendly Crops ---")
     # load JSON data from file
     with open('crops.json', 'r') as file:
@@ -42,7 +42,7 @@ def containerFriendlyCrops():
         if crop["container_friendly"]:
             print(" > " + crop["name"])
 
-def whatToHarvestDetailed():
+def what_to_harvest_detailed():
     print(" --- What to harvest based on soil type and sunlight conditions ---")
     soil_type = input("Enter soil type: ").lower()
     sunlight_condition = input("Enter your sunlight condition (Full sun/Partial shade): ").lower()
@@ -57,6 +57,24 @@ def whatToHarvestDetailed():
         if soil_type in crop["soil_type"].lower() and sunlight_condition in crop["sunlight"].lower():
             print(" > " + crop["name"])
 
+def crop_assistant():
+    print(" --- Crop Assistant ---")
+    crop_name = input("Enter crop name: ").title()
+    # load JSON data from file
+    with open('crops.json', 'r') as file:
+        data = json.load(file)
+
+    # Perform a linear search using the JSON data
+    crops = data["crops"]
+    for crop in crops:
+        if crop_name == crop["name"]:
+            print(f" > {crop["name"]} ({crop["type"]})")
+            print(f" > Planting season: {(" - ".join((crop["planting_season"])))}")
+            print(f" > Harvest season: {(" - ".join((crop["harvest_season"])))}")
+            print(f" > Soil type: {crop["soil_type"]}")
+            print(f" > Sunlight: {crop["sunlight"]}")
+            print(f" > Watering needs: {crop["watering_needs"]}")
+            print(f" > Container-friendly: {"Yes" if crop["container_friendly"] else "No"}")
 
 ### Main Code Starts Here ###
 print("##############################")
@@ -76,12 +94,12 @@ while option not in (["1", "2", "3", "4", "5"]):
     option = input(" > Enter your option (1 to 5):")
 
 if option == "1":
-    whatToPlantThisMonth()
+    what_to_plant_this_month()
 elif option == "2":
-    whatToHarvestThisMonth()
+    what_to_harvest_this_month()
 elif option == "3":
-    containerFriendlyCrops()
+    container_friendly_crops()
 elif option == "4":
-    whatToHarvestDetailed()
+    what_to_harvest_detailed()
 elif option == "5":
-    print("This option is not available yet!")
+    crop_assistant()
