@@ -1,0 +1,64 @@
+{
+  "countries": [
+    {
+      "code": "NOR"
+    },
+    {
+      "code": "JPN"
+    },
+    {
+      "code": "FRA"
+    },
+    {
+      "code": "CPV"
+    },
+    {
+      "code": "BUL"
+    },
+    {
+      "code": "HKG"
+    },
+    {
+      "code": "ITA"
+    },
+    {
+      "code": "ASA"
+    },
+    {
+      "code": "SMR"
+    },
+    {
+      "code": "ROU"
+    },
+    {
+      "code": "POR"
+    },
+    {
+      "code": "MHL"
+    },
+    {
+      "code": "GBS"
+    },
+    {
+      "code": "ISL"
+    },
+    {
+      "code": "NCA"
+    },
+    {
+      "code": "CRO"
+    },
+    {
+      "code": "MRT"
+    },
+    {
+      "code": "FRO"
+    },
+    {
+      "code": "ESP"
+    },
+    {
+      "code": "DEN"
+    }
+  ]
+}

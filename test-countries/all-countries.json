@@ -1,0 +1,745 @@
+{
+  "countries": [
+    {
+      "code": "AFG"
+    },
+    {
+      "code": "AIA"
+    },
+    {
+      "code": "ALA"
+    },
+    {
+      "code": "ALB"
+    },
+    {
+      "code": "ALG"
+    },
+    {
+      "code": "AND"
+    },
+    {
+      "code": "ANG"
+    },
+    {
+      "code": "ARG"
+    },
+    {
+      "code": "ARM"
+    },
+    {
+      "code": "ARU"
+    },
+    {
+      "code": "ASA"
+    },
+    {
+      "code": "ASC"
+    },
+    {
+      "code": "ATG"
+    },
+    {
+      "code": "AUS"
+    },
+    {
+      "code": "AUT"
+    },
+    {
+      "code": "AZE"
+    },
+    {
+      "code": "BAH"
+    },
+    {
+      "code": "BAN"
+    },
+    {
+      "code": "BAR"
+    },
+    {
+      "code": "BDI"
+    },
+    {
+      "code": "BEL"
+    },
+    {
+      "code": "BEN"
+    },
+    {
+      "code": "BER"
+    },
+    {
+      "code": "BFA"
+    },
+    {
+      "code": "BHR"
+    },
+    {
+      "code": "BHU"
+    },
+    {
+      "code": "BIH"
+    },
+    {
+      "code": "BLM"
+    },
+    {
+      "code": "BLR"
+    },
+    {
+      "code": "BLZ"
+    },
+    {
+      "code": "BOL"
+    },
+    {
+      "code": "BON"
+    },
+    {
+      "code": "BOT"
+    },
+    {
+      "code": "BRA"
+    },
+    {
+      "code": "BRU"
+    },
+    {
+      "code": "BUL"
+    },
+    {
+      "code": "CAF"
+    },
+    {
+      "code": "CAM"
+    },
+    {
+      "code": "CAN"
+    },
+    {
+      "code": "CAY"
+    },
+    {
+      "code": "CCS"
+    },
+    {
+      "code": "CGO"
+    },
+    {
+      "code": "CHA"
+    },
+    {
+      "code": "CHI"
+    },
+    {
+      "code": "CHN"
+    },
+    {
+      "code": "CHR"
+    },
+    {
+      "code": "CIV"
+    },
+    {
+      "code": "CMR"
+    },
+    {
+      "code": "COD"
+    },
+    {
+      "code": "COK"
+    },
+    {
+      "code": "COL"
+    },
+    {
+      "code": "COM"
+    },
+    {
+      "code": "CPV"
+    },
+    {
+      "code": "CRC"
+    },
+    {
+      "code": "CRO"
+    },
+    {
+      "code": "CUB"
+    },
+    {
+      "code": "CUW"
+    },
+    {
+      "code": "CYP"
+    },
+    {
+      "code": "CZE"
+    },
+    {
+      "code": "DEN"
+    },
+    {
+      "code": "DJI"
+    },
+    {
+      "code": "DMA"
+    },
+    {
+      "code": "DOM"
+    },
+    {
+      "code": "ECU"
+    },
+    {
+      "code": "EGY"
+    },
+    {
+      "code": "EQG"
+    },
+    {
+      "code": "ERI"
+    },
+    {
+      "code": "ESH"
+    },
+    {
+      "code": "ESP"
+    },
+    {
+      "code": "EST"
+    },
+    {
+      "code": "ESV"
+    },
+    {
+      "code": "ESW"
+    },
+    {
+      "code": "ETH"
+    },
+    {
+      "code": "FIJ"
+    },
+    {
+      "code": "FIN"
+    },
+    {
+      "code": "FLK"
+    },
+    {
+      "code": "FRA"
+    },
+    {
+      "code": "FRO"
+    },
+    {
+      "code": "FSM"
+    },
+    {
+      "code": "GAB"
+    },
+    {
+      "code": "GAM"
+    },
+    {
+      "code": "GBR"
+    },
+    {
+      "code": "GBS"
+    },
+    {
+      "code": "GEO"
+    },
+    {
+      "code": "GER"
+    },
+    {
+      "code": "GHA"
+    },
+    {
+      "code": "GIB"
+    },
+    {
+      "code": "GLP"
+    },
+    {
+      "code": "GRE"
+    },
+    {
+      "code": "GRL"
+    },
+    {
+      "code": "GRN"
+    },
+    {
+      "code": "GSY"
+    },
+    {
+      "code": "GUA"
+    },
+    {
+      "code": "GUF"
+    },
+    {
+      "code": "GUI"
+    },
+    {
+      "code": "GUM"
+    },
+    {
+      "code": "GUY"
+    },
+    {
+      "code": "HAI"
+    },
+    {
+      "code": "HKG"
+    },
+    {
+      "code": "HON"
+    },
+    {
+      "code": "HUN"
+    },
+    {
+      "code": "IMN"
+    },
+    {
+      "code": "INA"
+    },
+    {
+      "code": "IND"
+    },
+    {
+      "code": "IRL"
+    },
+    {
+      "code": "IRN"
+    },
+    {
+      "code": "IRQ"
+    },
+    {
+      "code": "ISL"
+    },
+    {
+      "code": "ISR"
+    },
+    {
+      "code": "ISV"
+    },
+    {
+      "code": "ITA"
+    },
+    {
+      "code": "IVB"
+    },
+    {
+      "code": "JAM"
+    },
+    {
+      "code": "JEY"
+    },
+    {
+      "code": "JOR"
+    },
+    {
+      "code": "JPN"
+    },
+    {
+      "code": "KAZ"
+    },
+    {
+      "code": "KEN"
+    },
+    {
+      "code": "KGZ"
+    },
+    {
+      "code": "KIR"
+    },
+    {
+      "code": "KOR"
+    },
+    {
+      "code": "KOS"
+    },
+    {
+      "code": "KSA"
+    },
+    {
+      "code": "KUW"
+    },
+    {
+      "code": "LAO"
+    },
+    {
+      "code": "LAT"
+    },
+    {
+      "code": "LBA"
+    },
+    {
+      "code": "LBN"
+    },
+    {
+      "code": "LBR"
+    },
+    {
+      "code": "LCA"
+    },
+    {
+      "code": "LES"
+    },
+    {
+      "code": "LIE"
+    },
+    {
+      "code": "LTU"
+    },
+    {
+      "code": "LUX"
+    },
+    {
+      "code": "MAC"
+    },
+    {
+      "code": "MAD"
+    },
+    {
+      "code": "MAF"
+    },
+    {
+      "code": "MAR"
+    },
+    {
+      "code": "MDA"
+    },
+    {
+      "code": "MDV"
+    },
+    {
+      "code": "MEX"
+    },
+    {
+      "code": "MGL"
+    },
+    {
+      "code": "MHL"
+    },
+    {
+      "code": "MKD"
+    },
+    {
+      "code": "MLI"
+    },
+    {
+      "code": "MLT"
+    },
+    {
+      "code": "MNE"
+    },
+    {
+      "code": "MON"
+    },
+    {
+      "code": "MOZ"
+    },
+    {
+      "code": "MRI"
+    },
+    {
+      "code": "MRT"
+    },
+    {
+      "code": "MSR"
+    },
+    {
+      "code": "MTQ"
+    },
+    {
+      "code": "MWI"
+    },
+    {
+      "code": "MYA"
+    },
+    {
+      "code": "MYS"
+    },
+    {
+      "code": "MYT"
+    },
+    {
+      "code": "NAM"
+    },
+    {
+      "code": "NCA"
+    },
+    {
+      "code": "NCL"
+    },
+    {
+      "code": "NED"
+    },
+    {
+      "code": "NEP"
+    },
+    {
+      "code": "NFK"
+    },
+    {
+      "code": "NGA"
+    },
+    {
+      "code": "NGR"
+    },
+    {
+      "code": "NIU"
+    },
+    {
+      "code": "NMI"
+    },
+    {
+      "code": "NOR"
+    },
+    {
+      "code": "NRU"
+    },
+    {
+      "code": "NZL"
+    },
+    {
+      "code": "OMA"
+    },
+    {
+      "code": "PAK"
+    },
+    {
+      "code": "PAN"
+    },
+    {
+      "code": "PAR"
+    },
+    {
+      "code": "PCN"
+    },
+    {
+      "code": "PER"
+    },
+    {
+      "code": "PHI"
+    },
+    {
+      "code": "PLE"
+    },
+    {
+      "code": "PLW"
+    },
+    {
+      "code": "PNG"
+    },
+    {
+      "code": "POL"
+    },
+    {
+      "code": "POR"
+    },
+    {
+      "code": "PRK"
+    },
+    {
+      "code": "PUR"
+    },
+    {
+      "code": "PYF"
+    },
+    {
+      "code": "QAT"
+    },
+    {
+      "code": "REU"
+    },
+    {
+      "code": "ROU"
+    },
+    {
+      "code": "RSA"
+    },
+    {
+      "code": "RUS"
+    },
+    {
+      "code": "RWA"
+    },
+    {
+      "code": "SAB"
+    },
+    {
+      "code": "SAM"
+    },
+    {
+      "code": "SEN"
+    },
+    {
+      "code": "SEU"
+    },
+    {
+      "code": "SEY"
+    },
+    {
+      "code": "SGP"
+    },
+    {
+      "code": "SHN"
+    },
+    {
+      "code": "SKN"
+    },
+    {
+      "code": "SLE"
+    },
+    {
+      "code": "SLK"
+    },
+    {
+      "code": "SMR"
+    },
+    {
+      "code": "SMT"
+    },
+    {
+      "code": "SOL"
+    },
+    {
+      "code": "SOM"
+    },
+    {
+      "code": "SPM"
+    },
+    {
+      "code": "SRB"
+    },
+    {
+      "code": "SSD"
+    },
+    {
+      "code": "STP"
+    },
+    {
+      "code": "SUD"
+    },
+    {
+      "code": "SUI"
+    },
+    {
+      "code": "SUR"
+    },
+    {
+      "code": "SVA"
+    },
+    {
+      "code": "SVK"
+    },
+    {
+      "code": "SVN"
+    },
+    {
+      "code": "SWE"
+    },
+    {
+      "code": "SYR"
+    },
+    {
+      "code": "TAN"
+    },
+    {
+      "code": "TCA"
+    },
+    {
+      "code": "TCU"
+    },
+    {
+      "code": "THA"
+    },
+    {
+      "code": "TJK"
+    },
+    {
+      "code": "TKL"
+    },
+    {
+      "code": "TKM"
+    },
+    {
+      "code": "TLS"
+    },
+    {
+      "code": "TOG"
+    },
+    {
+      "code": "TON"
+    },
+    {
+      "code": "TRI"
+    },
+    {
+      "code": "TUN"
+    },
+    {
+      "code": "TUR"
+    },
+    {
+      "code": "TUV"
+    },
+    {
+      "code": "TWN"
+    },
+    {
+      "code": "UAE"
+    },
+    {
+      "code": "UGA"
+    },
+    {
+      "code": "UKR"
+    },
+    {
+      "code": "URU"
+    },
+    {
+      "code": "USA"
+    },
+    {
+      "code": "UZB"
+    },
+    {
+      "code": "VAN"
+    },
+    {
+      "code": "VAT"
+    },
+    {
+      "code": "VEN"
+    },
+    {
+      "code": "VIE"
+    },
+    {
+      "code": "VIN"
+    },
+    {
+      "code": "WLF"
+    },
+    {
+      "code": "YEM"
+    },
+    {
+      "code": "ZAM"
+    },
+    {
+      "code": "ZIM"
+    }
+  ]
+}
